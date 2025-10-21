@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Full%20Stack%20Developer&fontSize=45)
 
-<a href="https://www.linkedin.com/in/lucas-modin-5bb484172" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-modin-5bb484172" target="_blank" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50"/>
 </a>
 
