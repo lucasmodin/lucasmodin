@@ -55,11 +55,11 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Unix/Linux" />
 </p>
-##
+
 
 ## Overview
 
-![snake gif](https://github.com/lucasmodin/lucasmodin/blob/output/github-contribution-grid-snake.svg)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasmodin&bg_color=0d1117&color=ffffff&line=00bfbf&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Connect with me
