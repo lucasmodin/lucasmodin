@@ -55,6 +55,9 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Unix/Linux" />
 </p>
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmodin)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 <p align="center">
