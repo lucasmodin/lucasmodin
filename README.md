@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Full%20Stack%20Developer%20|%20Java%20•%20Spring%20Boot%20•%20Vue%203&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Full%20Stack%20Developer&fontSize=45)
 
 <a href="https://www.linkedin.com/in/lucas-modin-5bb484172" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50"/>
