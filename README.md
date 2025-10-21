@@ -59,10 +59,8 @@ hobbies:
 
 ## Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasmodin&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmodin&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
+![snake gif](https://github.com/lucasmodin/lucasmodin/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Connect with me
 <p align="center">
