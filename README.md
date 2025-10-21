@@ -30,7 +30,7 @@ hobbies:
   - Running
   - Philosophy
 ```
-## Tech Stack
+## Stack
 <p align="center">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
@@ -57,7 +57,12 @@ hobbies:
 </p>
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmodin)](https://github.com/anuraghazra/github-readme-stats)
+## Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasmodin&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmodin&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
 
 ## Connect with me
 <p align="center">
